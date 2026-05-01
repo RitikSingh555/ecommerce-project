@@ -1,3 +1,7 @@
+<img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/85a52ea7-a2ef-4edc-9953-1abb9770fded" />
+
+
+
 # Ecommerce Full Stack Project
 
 Tech Stack:
